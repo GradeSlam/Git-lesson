@@ -10,4 +10,4 @@ def median(input):
     return input[middle]
 
 my_list = [0, 1, 2, 3, 4, 5]
-print(median(my_list))
+
